@@ -10,7 +10,7 @@
     {
         width: 100%;
         padding-inline: 12px;
-        grid-auto-rows: 300px;
+        grid-auto-rows: 250px;
     }
 
     .box
