@@ -19,10 +19,10 @@
         grid-column: span 3;
     }
 
-    .box:hover
+    /* .box:hover
     {
         background-color: #999;
         background-position: center;
         box-shadow: 0 0 4px #fff;
-    }
+    } */
 }
