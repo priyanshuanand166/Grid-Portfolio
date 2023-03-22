@@ -66,6 +66,11 @@ body
     cursor: pointer;
 }
 
+.box img
+{
+    width: 100%;
+}
+
 .box:hover
 {
     background-color: #999;
